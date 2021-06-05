@@ -4,7 +4,20 @@
   
     
     <entry>
-      <title>kubernetes</title>
+      <title>pyqt5</title>
+      <link href="2021/06/05/pyqt5/"/>
+      <url>2021/06/05/pyqt5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="pyQt5"><a href="#pyQt5" class="headerlink" title="pyQt5"></a>pyQt5</h1><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>基于python的QT开发工具，移植性强，包含QT几乎所有的功能</p><h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>kubernetes学习笔记</title>
       <link href="2021/06/05/kubernetes/"/>
       <url>2021/06/05/kubernetes/</url>
       
