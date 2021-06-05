@@ -6,7 +6,7 @@
   <link href="https://mygaki.github.io/atom.xml" rel="self"/>
   
   <link href="https://mygaki.github.io/"/>
-  <updated>2021-06-04T18:10:58.878Z</updated>
+  <updated>2021-06-05T08:07:47.827Z</updated>
   <id>https://mygaki.github.io/</id>
   
   <author>
@@ -17,24 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>myfirstblog</title>
-    <link href="https://mygaki.github.io/2021/06/05/myfirstblog/"/>
-    <id>https://mygaki.github.io/2021/06/05/myfirstblog/</id>
-    <published>2021-06-04T18:10:58.000Z</published>
-    <updated>2021-06-04T18:10:58.878Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://mygaki.github.io/2021/06/05/hello-world/"/>
     <id>https://mygaki.github.io/2021/06/05/hello-world/</id>
-    <published>2021-06-04T16:24:33.070Z</published>
-    <updated>2021-06-04T16:24:33.070Z</updated>
+    <published>2021-06-05T08:07:47.826Z</published>
+    <updated>2021-06-05T08:07:47.827Z</updated>
     
     
       
@@ -44,6 +31,19 @@
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>myfirstblog</title>
+    <link href="https://mygaki.github.io/2021/06/05/myfirstblog/"/>
+    <id>https://mygaki.github.io/2021/06/05/myfirstblog/</id>
+    <published>2021-06-04T18:10:58.000Z</published>
+    <updated>2021-06-05T08:07:47.827Z</updated>
+    
     
     
     
