@@ -4,16 +4,41 @@
   
     
     <entry>
-      <title>docker学习笔记</title>
-      <link href="2021/06/05/docker/"/>
-      <url>2021/06/05/docker/</url>
+      <title>kubernetes</title>
+      <link href="2021/06/05/kubernetes/"/>
+      <url>2021/06/05/kubernetes/</url>
       
-        <content type="html"><![CDATA[<h1 id="docker"><a href="#docker" class="headerlink" title="docker"></a>docker</h1><hr><ul><li>概述</li><li>常用命令</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="kubernetes"><a href="#kubernetes" class="headerlink" title="# kubernetes"></a># kubernetes</h1><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p><a href="https://www.kubernetes.org.cn/"><strong>Kubernetes</strong></a>是一个开源的，用于管理云平台中多个主机上的容器化的应用，Kubernetes的目标是让部署容器化的应用简单并且高效（powerful）,Kubernetes提供了应用部署，规划，更新，维护的一种机制</p><h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2>]]></content>
       
       
       <categories>
           
-          <category> docker </category>
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> kubernetes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>docker学习笔记</title>
+      <link href="2021/06/05/docker/"/>
+      <url>2021/06/05/docker/</url>
+      
+        <content type="html"><![CDATA[<h1 id="docker"><a href="#docker" class="headerlink" title="docker"></a>docker</h1><hr><h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p>Docker 是一个<a href="https://baike.baidu.com/item/%E5%BC%80%E6%BA%90/20720669">开源</a>的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的<a href="https://baike.baidu.com/item/%E9%95%9C%E5%83%8F/1574">镜像</a>中，然后发布到任何流行的 <a href="https://baike.baidu.com/item/Linux">Linux</a>或<a href="https://baike.baidu.com/item/Windows/165458">Windows</a> 机器上，也可以实现<a href="https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E5%8C%96/547949">虚拟化</a>。容器是完全使用<a href="https://baike.baidu.com/item/%E6%B2%99%E7%AE%B1/393318">沙箱</a>机制，相互之间不会有任何接口</p><h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
           
       </categories>
       
