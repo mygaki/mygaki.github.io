@@ -6,7 +6,7 @@
   <link href="https://mygaki.github.io/atom.xml" rel="self"/>
   
   <link href="https://mygaki.github.io/"/>
-  <updated>2021-06-06T16:52:58.742Z</updated>
+  <updated>2021-06-16T17:18:14.046Z</updated>
   <id>https://mygaki.github.io/</id>
   
   <author>
@@ -17,37 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>docker学习笔记</title>
-    <link href="https://mygaki.github.io/2021/06/05/docker/"/>
-    <id>https://mygaki.github.io/2021/06/05/docker/</id>
-    <published>2021-06-05T12:12:05.000Z</published>
-    <updated>2021-06-06T16:52:58.742Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;docker&quot;&gt;&lt;a href=&quot;#docker&quot; class=&quot;headerlink&quot; title=&quot;docker&quot;&gt;&lt;/a&gt;docker&lt;/h1&gt;&lt;hr&gt;
-&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="java" scheme="https://mygaki.github.io/categories/java/"/>
-    
-    
-    <category term="docker" scheme="https://mygaki.github.io/tags/docker/"/>
-    
-  </entry>
-  
-  <entry>
     <title>kubernetes学习笔记</title>
     <link href="https://mygaki.github.io/2021/06/05/kubernetes/"/>
     <id>https://mygaki.github.io/2021/06/05/kubernetes/</id>
     <published>2021-06-05T12:12:05.000Z</published>
-    <updated>2021-06-13T10:19:56.726Z</updated>
+    <updated>2021-06-16T17:18:14.046Z</updated>
     
     
       
@@ -64,31 +38,6 @@
     
     
     <category term="kubernetes" scheme="https://mygaki.github.io/tags/kubernetes/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>pyqt5学习笔记</title>
-    <link href="https://mygaki.github.io/2021/06/05/pyqt5/"/>
-    <id>https://mygaki.github.io/2021/06/05/pyqt5/</id>
-    <published>2021-06-05T12:12:05.000Z</published>
-    <updated>2021-06-06T16:49:13.341Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;pyQt5&quot;&gt;&lt;a href=&quot;#pyQt5&quot; class=&quot;headerlink&quot; title=&quot;pyQt5&quot;&gt;&lt;/a&gt;pyQt5&lt;/h1&gt;&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="python" scheme="https://mygaki.github.io/categories/python/"/>
-    
-    
-    <category term="pyqt" scheme="https://mygaki.github.io/tags/pyqt/"/>
     
   </entry>
   
